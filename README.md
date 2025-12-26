@@ -497,7 +497,7 @@ Bu proje minimal tutulmuştur. Ama mimari, “sonradan büyütülebilir” şeki
 
 # Lisans
 
-Bu proje eğitim amaçlı geliştirilmiştir. (LICENSE)[LICENSE]
+Bu proje eğitim amaçlı geliştirilmiştir. [MIT LICENSE](LICENSE)
 
 ---
 
